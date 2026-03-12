@@ -8,7 +8,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // --- VERCEL CONFIGURATION ---
-  url: 'https://royal-rage-wiki.vercel.app', // Your Vercel URL
+  url: 'void-wiki-bcj6qjf9e-riskyclips1-4514s-projects.vercel.app', // Your Vercel URL
   baseUrl: '/',
 
   // --- CRITICAL FIX FOR DEPLOYMENT ---
@@ -57,9 +57,9 @@ const config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: 'ROYAL RAGE',
+        title: 'VOID - The Duskwalkers',
         logo: {
-          alt: 'Royal Rage Logo',
+          alt: 'VOID Logo',
           src: 'img/logo.svg',
           style: {display: 'none'}, 
         },
@@ -73,7 +73,7 @@ const config = {
           {to: '/valor', label: 'Hall of Valor', position: 'left'},
           {to: '/command', label: 'Chain of Command', position: 'left'},
           {
-            href: 'https://discord.gg/YOUR_CODE', 
+            href: 'https://discord.gg/8egN5wtb7p', 
             label: 'Discord',
             position: 'right',
           },
