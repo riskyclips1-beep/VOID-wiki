@@ -3,8 +3,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Royal Rage',
-  tagline: 'Where Drama goes to Die',
+  title: 'VOID - The Duskwalkers',
+  tagline: 'Enter into the VOID',
   favicon: 'img/favicon.ico',
 
   // --- VERCEL CONFIGURATION ---
