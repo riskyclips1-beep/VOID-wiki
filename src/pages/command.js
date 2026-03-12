@@ -7,7 +7,7 @@ import styles from './command.module.css';
 
 const R5_LEADER = [
   {
-    name: 'violetnight0',
+    name: 'Risky Clips',
     rank: 'R5 // SUPREME COMMANDER',
     role: 'The Crown',
     image: '/img/officers/violet.jpg',
@@ -18,28 +18,28 @@ const R5_LEADER = [
 
 const R4_TITLED = [
   {
-    name: 'Wang the Great',
+    name: 'Brodie Bruce81',
     rank: 'R4 // WARLORD',
     role: 'Combat Operations',
     image: '/img/officers/wang.jpg',
     bio: 'Orchestrates the violence. If you are offline during war, you answer to him.',
   },
   {
-    name: 'Oklahoma Smokeshow',
+    name: 'DaGrenado',
     rank: 'R4 // RECRUITER',
     role: 'Talent Acquisition',
     image: '/img/officers/oklahoma.jpg',
     bio: 'Gatekeeper of the Alliance. Only the elite get past.',
   },
   {
-    name: 'Jacques Shellac',
+    name: 'Risky Wife',
     rank: 'R4 // MUSE',
     role: 'Culture & Morale',
     image: '/img/officers/jacques.jpg',
     bio: 'Keeps the vibes lethal. The heart of the machine.',
   },
   {
-    name: 'Shadowhisperer',
+    name: 'Fearmentor',
     rank: 'R4 // BUTLER',
     role: 'Education & Logistics',
     image: '/img/officers/shadow.jpg', 
@@ -48,9 +48,9 @@ const R4_TITLED = [
 ];
 
 const R4_OFFICERS = [
-  { name: 'CaMBo', bio: 'Conductor extraordinaire.' },
-  { name: 'thorhammer', bio: 'The hammer of the alliance.' },
-  { name: 'ItsWavyBaby', bio: 'The backbone.' },
+  { name: 'Janus Prospero', bio: 'Conductor extraordinaire.' },
+  { name: 'LuliSa', bio: 'The hammer of the alliance.' },
+  { name: 'ItsWavyBa', bio: 'The backbone.' },
   { name: 'DrSueS', bio: 'Strategic oversight.' },
   { name: 'Error505', bio: 'The man of the people' },
   { name: 'Kekoa702', bio: 'Communications specialist.' },
